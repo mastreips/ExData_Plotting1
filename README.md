@@ -1,3 +1,10 @@
+##Author: Marcus A. Streips
+##Date:  Dec 3, 2014
+##
+## NOTE:  Please set R working directory to the same directory you have saved this file.  
+#
+## NOTE:  Please make sure the data set is in the working directory
+
 ## Introduction
 
 This assignment uses data from
